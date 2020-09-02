@@ -1,1 +1,1 @@
-## This is a Github repository and materials for organizing the Rokwire community.
+### This is a Github repository containing associated materials for organizing the Rokwire community.
